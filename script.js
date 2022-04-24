@@ -1,9 +1,9 @@
 //THÔNG BÁO NỔI//
 
 //THÔNG BÁO KHẨN CẤP//
-const TB_T="";
-const TB1="UNAVAILABLE";
-const TB1_N="";
+const TB_T="THÔNG BÁO KHẨN";
+const TB1="NGÀY MAI - 19/09/2022";
+const TB1_N="KIỂM TRA CUỐI HK2 NGỮ VĂN";
 //THÔNG BÁO BÌNH THƯỜNG//
 const TB2="UNAVAILABLE";
 const TB2_N="";
